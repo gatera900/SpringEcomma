@@ -1,2 +1,2 @@
 # SpringEcomma
-Ecommerce for students built with spring boot and react
+Ecommerce for students built with spring boot and reac
